@@ -3,7 +3,7 @@
 A macOS menu bar app for switching between Claude Code accounts, for example a work
 account and a personal one, without logging out and back in.
 
-![The Claude Switcher menu with two accounts](docs/screenshot.png)
+![The Claude Switcher menu with two accounts](docs/menu.png)
 
 ## Install
 
